@@ -77,5 +77,4 @@ BEGIN
 END$$
 
 DELIMITER ;
-```# kyrsovaya
-# kyrsovaya
+```
